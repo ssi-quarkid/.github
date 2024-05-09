@@ -26,11 +26,9 @@ Quark ID es un protocolo de identidad digital autosoberana, de código abierto, 
 [Documentación para iniciar un nodo](https://github.com/gcba/Nodo-QuickStar/tree/master). Incluye información sobre configuraciones de los componentes API zkSync y API Proxy.
 
 ## Paquetes NPMJs
-Conjunto de [11 paquetes NPMJs](https://github.com/gcba/Paquetes-NPMjs) que se utiliza para realizar las operación de bajo nivel y abstraer la lógica para facilitar el desarrollo de los componentes. 
+Conjunto de [13 paquetes NPMJs](https://github.com/gcba/Paquetes-NPMjs) que se utiliza para realizar las operación de bajo nivel y abstraer la lógica para facilitar el desarrollo de los componentes. 
    
 ## Guía para emitir Credenciales Verificables
 
 Para saber más sobre credenciales verificables, puede encontar documentación para realizar [este proceso](https://docs.quarkid.org/Quickstart/Creacion%20de%20una%20VC/). Usted, como emisor de una credencial verificable, deberá definir la información que dicha credencial contendrá, es decir, los campos que formarán parte del JSON de su credencial. 
-
-# .github
 
