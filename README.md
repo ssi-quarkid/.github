@@ -1,36 +1,35 @@
 # QuarkID
 
-Es el framework de confianza digital desarrollado por el Gobierno de la Ciudad de Buenos Aires que crea un nuevo sistema de identidad digital y les otorga a las personas el control sobre su información, con un anclaje de seguridad a través de tecnología blockchain.
+It is the digital trust framework developed by the Government of the City of Buenos Aires that creates a new digital identity system and gives individuals control over their information, with security anchored through blockchain technology.
 
+## What is it?
 
-## ¿Qué es?
-
-Quark ID es un protocolo de identidad digital autosoberana, de código abierto, que simplifica las transacciones y les permite a las personas tener todos sus documentos en un solo lugar, tanto los emitidos por instituciones públicas como privadas, de Argentina y del mundo. Quark ID es descentralizado, público, no permisionado, abierto, extensible y capaz de interoperar con otros protocolos similares.
+Quark ID is a self-sovereign digital identity protocol, open source, that simplifies transactions and allows people to have all their documents in one place, whether issued by public or private institutions, from Argentina and around the world. Quark ID is decentralized, public, permissionless, open, extensible, and capable of interoperating with other similar protocols.
 
 ## WhitePaper
 
-[Link](https://github.com/gcba/WhitePaper)
+[Link](https://github.com/ssi-quarkid/WhitePaper)
 
-## Documentación 
-[Link](https://docs.quarkid.org/)
+## Documentation
+[Link](https://docs.quarkid.org/en/)
 
-## Guía para descargar componentes
+## Guide to download components
 
-1. [API zkSync](https://github.com/gcba/api-zkSync/tree/master) 
-2. [API Proxy](https://github.com/gcba/api-proxy/tree/master)
-3. [Message-Manager](https://github.com/gcba/message-manager/tree/master)
-4. [DWN](https://github.com/gcba/dwn/tree/master)
-5. [Agente Mobile](https://github.com/gcba/agente-mobile/tree/master) *Para lograr una instalación correcta del Agente Mobile, recuerde que usted debe tener previamente un ambiente de desarollo de React Native.*
+1. [zkSync API](https://github.com/ssi-quarkid/api-zkSync)
+2. [Proxy API](https://github.com/ssi-quarkid/api-proxy)
+3. [Message-Manager](https://github.com/ssi-quarkid/message-manager)
+4. [DWN](https://github.com/ssi-quarkid/dwn)
+5. [Mobile Agent](https://github.com/ssi-quarkid/agente-mobile) *To properly install the Mobile Agent, please ensure you have a React Native development environment set up beforehand.*
 
-## Pasos para iniciar un nodo de Identidad Quarkid
-[Documentación para iniciar un nodo](https://github.com/gcba/Nodo-QuickStar/tree/master). Incluye información sobre configuraciones de los componentes API zkSync y API Proxy.
+## Steps to start a QuarkID Identity node
+[Node startup documentation](https://github.com/ssi-quarkid/Nodo-QuickStart). Includes configuration information for zkSync API and Proxy API components.
 
-## Paquetes NPMJs
-Conjunto de [11 paquetes NPMJs](https://github.com/gcba/Paquetes-NPMjs) que se utiliza para realizar las operación de bajo nivel y abstraer la lógica para facilitar el desarrollo de los componentes. 
-   
-## Guía para emitir Credenciales Verificables
+## NPMJs Packages
+A set of [11 NPMJs packages](https://github.com/ssi-quarkid/Paquetes-NPMjs) used for low-level operations and to abstract logic, making it easier to develop components.
 
-Para saber más sobre credenciales verificables, puede encontar documentación para realizar [este proceso](https://docs.quarkid.org/Quickstart/Creacion%20de%20una%20VC/). Usted, como emisor de una credencial verificable, deberá definir la información que dicha credencial contendrá, es decir, los campos que formarán parte del JSON de su credencial. 
+## Guide to issue Verifiable Credentials
+
+To learn more about verifiable credentials, you can find documentation to carry out [this process](https://docs.quarkid.org/en/Quickstart/Creacion%20de%20una%20VC/). As an issuer of a verifiable credential, you must define the information that the credential will contain, i.e., the fields that will be part of the credential's JSON.
 
 # .github
 # .github
