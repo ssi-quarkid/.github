@@ -25,7 +25,7 @@ Quark ID is a self-sovereign digital identity protocol, open source, that simpli
 [Node startup documentation](https://github.com/ssi-quarkid/Nodo-QuickStart). Includes configuration information for zkSync API and Proxy API components.
 
 ## NPMJs Packages
-A set of [22 NPMJs packages](https://github.com/ssi-quarkid/Paquetes-NPMjs) used for low-level operations and to abstract logic, making it easier to develop components.
+A set of [21 NPMJs packages](https://github.com/ssi-quarkid/Paquetes-NPMjs) used for low-level operations and to abstract logic, making it easier to develop components.
 
 ## Guide to issue Verifiable Credentials
 
