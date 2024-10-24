@@ -35,4 +35,7 @@ To learn more about verifiable credentials, you can find documentation to carry 
 
 This repository is designed to acknowledge and organize contributions made by individuals and teams to the Quark ID project. [You can find it here](https://github.com/ssi-quarkid/contributions).
 
+## Issues report
+Issues are used to track bugs, feature requests, and more. As issues are created, they’ll appear here in a searchable and filterable list. To get started, [you should create an issue.](https://github.com/ssi-quarkid/contributions/issues)
+
 -----------------------------------------------------------------------------------------
