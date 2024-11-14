@@ -1,4 +1,3 @@
-
 ## QuarkID
 
 Es el marco de confianza digital desarrollado por el Gobierno de la Ciudad de Buenos Aires que crea un nuevo sistema de identidad digital y da a las personas control sobre su información, con seguridad anclada a través de la tecnología blockchain.
