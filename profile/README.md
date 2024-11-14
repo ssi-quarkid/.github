@@ -38,4 +38,8 @@ This repository is designed to acknowledge and organize contributions made by in
 ## Issues report
 Issues are used to track bugs, feature requests, and more. As issues are created, they’ll appear here in a searchable and filterable list. To get started, [you should create an issue.](https://github.com/ssi-quarkid/contributions/issues)
 
+### Languages:
+1. [Spanish](https://github.com/ssi-quarkid/.github/blob/main/profile/README_ES.md)
+2. [English](https://github.com/ssi-quarkid/.github/blob/main/profile/README.md)
+
 -----------------------------------------------------------------------------------------
