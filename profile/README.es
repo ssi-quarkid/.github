@@ -1,3 +1,9 @@
+## QuarkID
+
+It is the digital trust framework developed by the Government of the City of Buenos Aires that creates a new digital identity system and gives individuals control over their information, with security anchored through blockchain technology.
+ 
+
+
 QuarkID
 Es el marco de confianza digital desarrollado por el Gobierno de la Ciudad de Buenos Aires que crea un nuevo sistema de identidad digital y da a las personas control sobre su información, con seguridad anclada a través de la tecnología blockchain.
 
